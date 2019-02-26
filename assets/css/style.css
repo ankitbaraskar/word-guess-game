@@ -43,8 +43,8 @@ body {
 
     width: 100%;
     max-width: 800px;
-    padding: 30px;
-    height: 300px;
+    padding: 30px 30px 30px 22px;
+    height: 325px;
     
     background: #ffffff;
     border: 1px solid #dddddd;
@@ -59,3 +59,7 @@ body {
   #text-div{
       display: inline-block;
   }
+  #div-titles{
+    color: darkred;
+    font-weight: bolder;
+    }
