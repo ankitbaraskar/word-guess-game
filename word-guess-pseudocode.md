@@ -22,4 +22,7 @@ javascript:
             if false then display dash.something
     }
 
+
+TO START THE GAME AGAIN, NEED TO START A NEW SESSION: SO NEW BROWSER TAB
+ONLY LOWER CASE LETTERS ALLOWED
    
